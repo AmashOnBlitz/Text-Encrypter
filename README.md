@@ -25,7 +25,7 @@ Krezméin Encrypter is a powerful yet simple tool that encrypts text using a cus
 ## 🔧 Installation
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/AmashOnBlitz/Krezmein-Encrypter.git
+   git clone https://github.com/AmashOnBlitz/Text-Encrypter.git
 2. **Navigate to the directory**
    ```sh
    cd Krezmein-Encrypter
