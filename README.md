@@ -21,7 +21,6 @@ Krezméin Encrypter is a powerful yet simple tool that encrypts text using a cus
 - The .security file stores the encryption password and must be kept secure.
 - The .encryptedaob and .security files must remain in the same directory as the executable for decryption.
 - 
-## 🔒 Secure your text now with Krezméin Encrypter!
 
 ## 🔧 Installation
 1. **Clone the repository:**
@@ -33,7 +32,9 @@ Krezméin Encrypter is a powerful yet simple tool that encrypts text using a cus
 3. **Run the executable**
    ```sh
    KrezmeinEncrypter.exe
-  Or 
-  ```sh
-  ./KrezmeinEncrypter.exe
+4. Or (if above command fails)
+   ```sh
+   ./KrezmeinEncrypter.exe
+   
+## 🔒 Secure your text now with Krezméin Encrypter!
 
